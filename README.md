@@ -95,7 +95,7 @@
 * 參閱App Store Connect API頁面，輸入相關資料到Bitrise
 * ![參閱App Store Connect API頁面](./image/fig.11-6.png)
 
-* 名稱輸入`Tourbobo-iOS-Developer`
+* 名稱輸入`Example-iOS-Developer`
 * 上傳`金鑰p8檔案`
 * ![Bitrise API Key參數設定](./image/fig.11-7.png)
 
@@ -107,7 +107,7 @@
 * 點擊Dashboard專案，選擇上方Bar的`Team`區塊
 * ![Team](./image/fig.12-1.png)
 
-* 下方`API key authentication`選擇步驟11設定的`Tourbobo-iOS-Developer`
+* 下方`API key authentication`選擇步驟11設定的`Example-iOS-Developer`
 * ![API key authentication](./image/fig.12-2.png)
 
 ### 13. 設定Workflows
