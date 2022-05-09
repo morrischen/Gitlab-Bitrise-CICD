@@ -1,4 +1,4 @@
-## Bitrise 設定新專案流程
+## Gitlab與Bitrise自動部署設定 
 
 ### 1. 建立新專案
 
