@@ -4,7 +4,7 @@
 
 * [網站](https://app.bitrise.io/dashboard)
 * 前往Bitrise Dashboard點選`Add new app`
-* ![新增專案](./image/fig.1.png)
+* ![新增專案](./image/fig.1.jpg)
 
 ### 2. 選擇專案類型
 
