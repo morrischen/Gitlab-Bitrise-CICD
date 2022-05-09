@@ -4,19 +4,19 @@
 
 * [網站](https://app.bitrise.io/dashboard)
 * 前往Bitrise Dashboard點選`Add new app`
-* ![新增專案](./fig.1.png)
+* ![新增專案](./image/fig.1.png)
 
 ### 2. 選擇專案類型
 
 * 選擇`私有`專案
-* ![專案類型](./fig.2.png)
+* ![專案類型](./image/fig.2.png)
 
 ### 3. 設定Repository來源
 
 * 選擇最右側的`手動設定`專案網址
 * 因為Self Gitlab Server，必須使用SSH方式連線，請確認port號有打開
 * 輸入`ssh://gitserver/ios-example.git`
-* ![設定Repository](./fig.3.png)
+* ![設定Repository](./image/fig.3.png)
 
 
 ### 4. 設定Repository存取金鑰
